@@ -53,7 +53,7 @@
           <li><a href="#about">Tentang Saya</a></li>
           <li><a href="#skills">Keterampilan</a></li>
           <li><a href="#resume">Organisasi & Pendidikan</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#portfolio">Pengalaman</a></li>
           <li><a href="#contact">Kontak Saya</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -187,14 +187,13 @@
                 <div class="signature-info">
                   <h4>Dikalucky</h4>
                   <p>Sukses selalu untuk diri sendiri dan berguna untuk masyarakat</p>
+                  <p><a href="https://drive.google.com/file/d/1R0KSrMDQ_VLp3zE5hRwoPOxIBhWYQGEg/view?usp=sharing" target="_blank" class="btn btn-primary">Lihat CV saya</a></p>
                 </div>
               </div>
             </div>
           </div>
         </div>
-
       </div>
-
     </section><!-- /About Section -->
 
     <!-- Skills Section -->
@@ -407,7 +406,7 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Portfolio</h2>
+        <h2>Pengalaman</h2>
         <div class="title-shape">
           <svg viewBox="0 0 200 20" xmlns="http://www.w3.org/2000/svg">
             <path d="M 0,10 C 40,0 60,20 100,10 C 140,0 160,20 200,10" fill="none" stroke="currentColor" stroke-width="2"></path>
